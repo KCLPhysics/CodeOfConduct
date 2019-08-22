@@ -28,6 +28,7 @@ To make clear what is expected, we ask all members of the community to conform t
   * [4.5 Conflicts of Interest](#45-conflicts-of-interest)
 * [5 Acknowledgements](#5-acknowledgements)
 
+
 ## 1 Introduction
 
 The King's Physics Github community is a community-oriented and -led project.
@@ -75,18 +76,13 @@ See [this explanation of the four social rules](https://www.recurse.com/manual#s
 Examples of unacceptable behaviour by King's Physics Github community community members at any project event or platform include:
 
 * written or verbal comments which have the effect of excluding people on the basis of membership of any specific group
-* causing someone to fear for their safety, such as through stalking, following, or intimidation
 * violent threats or language directed against another person
-* the display of sexual or violent images
-* unwelcome sexual attention
 * nonconsensual or unwelcome physical contact
 * sustained disruption of talks, events or communications
 * insults or put downs
 * sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 * excessive swearing
 * incitement to violence, suicide, or self-harm
-* continuing to initiate interaction (including photography or recording) with someone after being asked to stop
-* publication of private communication without consent
 
 ### 2.3 Consequences of Unacceptable Behaviour
 
@@ -140,7 +136,7 @@ This can include contacting law enforcement (or other local personnel) and speak
 If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation.
 In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
 
-In situations where an individual community member acts unilaterally, they must inform Kirstie Whitaker as soon as possible, and report their actions for review within 24 hours.
+In situations where an individual community member acts unilaterally, they must inform Mohamed Ali Al-Badri as soon as possible, and report their actions for review within 24 hours.
 
 ### 4.3 Less-Urgent Situations
 
@@ -163,8 +159,8 @@ In the event that a resolution can't be determined in that time, a member of the
 ### 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach consensus and deadlocks for over a week, Dr Whitaker, as lead investigator of the King's Physics Github community, will break the tie.
-If Dr Whitaker is unable to take part in the discussion due to a conflict of interest, Dr Ben Murton, as an external member of the CoC committee, will make the decision.
+If the committee cannot reach consensus and deadlocks for over a week, Mohamed Ali Al-Badri, as lead investigator of the King's Physics Github community, will break the tie.
+If Mohamed Ali al-Badri is unable to take part in the discussion due to a conflict of interest, Dr Paul Le Long, as an external member of the CoC committee, will make the decision.
 
 Possible responses may include:
 
@@ -174,15 +170,6 @@ Possible responses may include:
 * Nothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.
 * A private in-person conversation between a member of the research team and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record keeping.
-* A private written reprimand from a member of the research team to the individual(s) involved.
-  In this case, the research team member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
-* A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.).
-  The committee may choose to publish this message elsewhere for posterity.
-* An imposed "time out" from online spaces.
-  Kirstie Whitaker will communicate this "time out" to the individual(s) involved.
-* A permanent or temporary ban from some or all King's Physics Github community spaces (GitHub, in-person events etc).
-  The research team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
-  If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
 Once a resolution is agreed upon, but before it is enacted, a member of the CoC committee will contact the original reporter and any other affected parties and explain the proposed resolution.
 The CoC committee member will ask if this resolution is acceptable, and must note feedback for the record.
@@ -190,19 +177,12 @@ However, the CoC committee is not required to act on this feedback.
 
 ### 4.5 Conflicts of Interest
 
-In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
+In the event of any conflict of interest such that Mohamed Ali al-Badri is not able to evaluate or enforce the reported violation, Paul Le Long will take Mohamed Ali's place.
 
 ## 5. Acknowledgements
 
 This code is adapted from the [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way) and the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the creative commons attribution license.
 
-The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
-Contributors to the Carpentries Code of Conduct were: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
-
-The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.
-Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
-
-We really appreciate the work that all of the communities linked above have put into creating such a well considered process.
-
 This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to Kirstie Whitaker and the King's Physics Github community community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
+
