@@ -1,7 +1,7 @@
 ---
 title: 'Workshop number 1'
 date: 2019-09-19
-permalink: /posts/2019/09/workshop-1/
+permalink: /carpenrty1/
 tags:
   - event
   - workshop
